@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Software Engineer & AI-Full Stack Developer</h3>
 
 # 💫 About Me:
-<br>🌱 I’m currently learning Web based technologies<br>🔭 Aprenticeship at **Red Hat** with Linux Foundations <br>👯 I’m looking to collaborate on Open Source Projects<br>📫 Reach out to me at my Email : harshitseth7084@gmail.com
+<br>🌱 I’m currently learning Web based technologies<br>🔭 I’m looking to collaborate on Open Source Projects<br>📫 Reach out to me at my Email : harshitseth7084@gmail.com
 
 
 # 💻 Tech Stack:
